@@ -1,4 +1,5 @@
 - Pertama
-- KeDua
+- Dua
 - Tiga
 - Empat
+- Lima
